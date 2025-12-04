@@ -1,2 +1,2 @@
 # AoC2025
-Advent of code 2025!
+Dirty python scripts to solve some AoC 2025 problems.
